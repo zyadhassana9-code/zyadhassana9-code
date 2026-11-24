@@ -28,3 +28,4 @@ A set of front-end design samples built with plain HTML, CSS and JavaScript. Con
 | [Nadir](https://github.com/zyadhassana9-code/nadir) | Music artist page with audio visualizer | [Open](https://zyadhassana9-code.github.io/nadir/) |
 | [Sole/Mate](https://github.com/zyadhassana9-code/solemate) | Sneaker store with filters and cart drawer | [Open](https://zyadhassana9-code.github.io/solemate/) |
 | [Devfolio](https://github.com/zyadhassana9-code/devfolio) | Developer portfolio template with terminal window | [Open](https://zyadhassana9-code.github.io/devfolio/) |
+| [Forge](https://github.com/zyadhassana9-code/forge) | Strength club site with class schedule and BMI calculator | [Open](https://zyadhassana9-code.github.io/forge/) |

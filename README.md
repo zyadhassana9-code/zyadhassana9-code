@@ -29,3 +29,9 @@ A set of front-end design samples built with plain HTML, CSS and JavaScript. Con
 | [Sole/Mate](https://github.com/zyadhassana9-code/solemate) | Sneaker store with filters and cart drawer | [Open](https://zyadhassana9-code.github.io/solemate/) |
 | [Devfolio](https://github.com/zyadhassana9-code/devfolio) | Developer portfolio template with terminal window | [Open](https://zyadhassana9-code.github.io/devfolio/) |
 | [Forge](https://github.com/zyadhassana9-code/forge) | Strength club site with class schedule and BMI calculator | [Open](https://zyadhassana9-code.github.io/forge/) |
+
+## 🎮 Games
+
+| Project | What it is | Live |
+|---|---|---|
+| [Bug Buster](https://github.com/zyadhassana9-code/bug-buster) | Arcade bug-shooter with bosses, power-ups and sound | [Play](https://zyadhassana9-code.github.io/bug-buster/) |
